@@ -137,7 +137,7 @@ celerybeat.pid
 *.rdb
 *.aof
 *.pid
-
+encrypted_image.png
 # RabbitMQ
 mnesia/
 rabbitmq/
